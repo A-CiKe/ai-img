@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="file://D:/eclipse_workspace/AI/joone-engine.jar" />
+    <libelement value="jar://$MODULE_DIR$/lib/derby.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/derbyLocale_zh_CN.jar!/" />
+    <libelement value="file://E:/eclipse/plugins/org.apache.derby.core_10.1.1/derby.jar" />
+    <libelement value="file://E:/eclipse/plugins/org.apache.derby.core_10.1.1/derbyclient.jar" />
+    <libelement value="file://E:/eclipse/plugins/org.apache.derby.core_10.1.1/derbytools.jar" />
+    <libelement value="file://E:/eclipse/plugins/org.apache.derby.core_10.1.1/derbynet.jar" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library">
+      <library name="joone-engine.jar">
+        <CLASSES>
+          <root url="file://D:/eclipse_workspace/AI/joone-engine.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="derby.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/derby.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="derbyLocale_zh_CN.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/derbyLocale_zh_CN.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="E:/eclipse/plugins/org.apache.derby.core_10.1.1/derby.jar">
+        <CLASSES>
+          <root url="file://E:/eclipse/plugins/org.apache.derby.core_10.1.1/derby.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="derbyclient.jar">
+        <CLASSES>
+          <root url="file://E:/eclipse/plugins/org.apache.derby.core_10.1.1/derbyclient.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="derbytools.jar">
+        <CLASSES>
+          <root url="file://E:/eclipse/plugins/org.apache.derby.core_10.1.1/derbytools.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="derbynet.jar">
+        <CLASSES>
+          <root url="file://E:/eclipse/plugins/org.apache.derby.core_10.1.1/derbynet.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="joone-engine" level="project" />
+  </component>
+</module>
